@@ -50,8 +50,8 @@ Our vision is to revolutionize the music industry by creating a decentralized re
 contract ID: ST1V01RPQS98Q3W1DZRRSTDNWNA66JS67GESM0VCK.MusicStreamingRewards
 ![alt text](<Screenshot 2025-08-26 121618.png>)
 
-- **Mainnet Contract Address**: `[To be added after mainnet deployment]`
-- **Testnet Contract Address**: `[To be added after testnet deployment]`
+- **Mainnet Contract Address**: 
+- **Testnet Contract Address**: 
 - **Token Name**: Music Reward Token (MRT)
 - **Token Decimals**: 6
 - **Network**: Stacks Blockchain
@@ -78,4 +78,5 @@ For technical support, partnership inquiries, or community engagement:
 - **GitHub**: [Repository Link]
 - **Discord**: [Community Server]
 - **Twitter**: [Official Account]
+
 - **Documentation**: [Documentation Site]
