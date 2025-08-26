@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: MusicStreamingRewards
+            expected-sender: ST1V01RPQS98Q3W1DZRRSTDNWNA66JS67GESM0VCK
+            cost: 46540
+            path: "contracts\\MusicStreamingRewards.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
