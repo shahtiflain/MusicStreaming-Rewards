@@ -75,8 +75,8 @@ contract ID: ST1V01RPQS98Q3W1DZRRSTDNWNA66JS67GESM0VCK.MusicStreamingRewards
 ### Contact & Support
 
 For technical support, partnership inquiries, or community engagement:
-- **GitHub**: [Repository Link]
-- **Discord**: [Community Server]
-- **Twitter**: [Official Account]
+- **GitHub**: 
+- **Discord**: 
+- **Twitter**:
+- **Documentation**:
 
-- **Documentation**: [Documentation Site]
